@@ -1,0 +1,37 @@
+date,amount,category,description
+05-07-2024,3000.0,Income,Salary
+10-07-2024,200.0,Income,Freelance work
+15-07-2024,150.0,Income,Part-time job
+20-07-2024,200.0,Income,Freelance work
+25-07-2024,150.0,Income,Part-time job
+30-07-2024,50.0,Income,Gift
+01-07-2024,45.0,Expense,Grocery shopping
+02-07-2024,30.0,Expense,Utility bill payment
+03-07-2024,50.0,Expense,Dining out
+04-07-2024,60.0,Expense,Transportation
+05-07-2024,20.0,Expense,Subscription service
+06-07-2024,75.0,Expense,Shopping
+07-07-2024,100.0,Expense,Entertainment
+08-07-2024,45.0,Expense,Grocery shopping
+09-07-2024,150.0,Expense,Insurance premium
+10-07-2024,50.0,Expense,Dining out
+11-07-2024,60.0,Expense,Transportation
+12-07-2024,35.0,Expense,Healthcare
+13-07-2024,75.0,Expense,Shopping
+14-07-2024,45.0,Expense,Grocery shopping
+15-07-2024,100.0,Expense,Entertainment
+16-07-2024,30.0,Expense,Utility bill payment
+17-07-2024,50.0,Expense,Dining out
+18-07-2024,60.0,Expense,Transportation
+19-07-2024,20.0,Expense,Subscription service
+20-07-2024,75.0,Expense,Shopping
+21-07-2024,100.0,Expense,Entertainment
+22-07-2024,45.0,Expense,Grocery shopping
+23-07-2024,150.0,Expense,Insurance premium
+24-07-2024,50.0,Expense,Dining out
+25-07-2024,680.0,Expense,Rent July
+26-07-2024,60.0,Expense,Transportation
+27-07-2024,35.0,Expense,Healthcare
+28-07-2024,75.0,Expense,Shopping
+29-07-2024,45.0,Expense,Grocery shopping
+30-07-2024,100.0,Expense,Entertainment
